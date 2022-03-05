@@ -6,7 +6,3 @@
 	path = test-talk-2
 	url = git@github.com:vandalt/reveal.js.git
 	branch = test-talk-2
-[submodule "test-main"]
-	path = test-main
-	url = git@github.com:vandalt/reveal.js.git
-	branch = test-main
