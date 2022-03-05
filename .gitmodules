@@ -1,0 +1,6 @@
+[submodule "test-talk"]
+	path = test-talk
+	url = git@github.com:vandalt/reveal.js.git
+[submodule "test-talk-2"]
+	path = test-talk-2
+	url = git@github.com:vandalt/reveal.js.git
