@@ -15,6 +15,9 @@ To add a new presentation:
 3. Create branch with talk name: `git checkout -b _talk-name_`
 4. Go back to main repo: `cd ..`
 5. Make submodule track new branch: `git submodule set-branch -b _talk-name_ _talk-name_`
+6. Go back in talk dir: `cd _talk-name_`
+7. Install: `npm install`
+8. Present: `npm start`
 
 When cloning the repostory and entering a submodule for the first time, still
 need to checkout the branch. The `set-branch` part just makes sure the
